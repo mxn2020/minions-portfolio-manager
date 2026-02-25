@@ -1,0 +1,13 @@
+import { describe, it, expect } from 'vitest';
+import { customTypes } from '../index.js';
+
+describe('MinionTypes Schemas', () => {
+    it('should have customTypes array populated', () => {
+        expect(customTypes).toBeDefined();
+        expect(Array.isArray(customTypes)).toBe(true);
+        expect(customTypes.length).toBeGreaterThan(0);
+    });
+
+    // No custom types defined.
+
+});
