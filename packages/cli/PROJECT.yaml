@@ -1,0 +1,8 @@
+name: "@minions-portfolio-manager/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-portfolio-manager-workspace
+description: "CLI for minions-portfolio-manager — Agent to manage global hierarchies, ecosystems, and projects"
+priority: high
+deploy_url: null
+tags: null

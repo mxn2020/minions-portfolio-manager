@@ -1,0 +1,8 @@
+name: "@minions-portfolio-manager/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-portfolio-manager-workspace
+description: "Agent to manage global hierarchies, ecosystems, and projects"
+priority: high
+deploy_url: null
+tags: null

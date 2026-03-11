@@ -1,0 +1,8 @@
+name: "@minions-portfolio-manager/web"
+project_scope: child
+child_type: web-app
+parent_project: minions-portfolio-manager-workspace
+description: "Standard compliance definition for @minions-portfolio-manager/web"
+priority: high
+deploy_url: null
+tags: null
