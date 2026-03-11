@@ -6,3 +6,4 @@ description: "CLI for minions-portfolio-manager — Agent to manage global hiera
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

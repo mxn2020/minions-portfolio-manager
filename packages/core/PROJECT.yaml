@@ -6,3 +6,4 @@ description: "Agent to manage global hierarchies, ecosystems, and projects"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
