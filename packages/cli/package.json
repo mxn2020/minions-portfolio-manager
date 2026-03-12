@@ -1,6 +1,6 @@
 {
   "name": "@minions-portfolio-manager/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-portfolio-manager — Agent to manage global hierarchies, ecosystems, and projects",
   "license": "MIT",
   "repository": {
